@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # otameshi
 # otameshi
 # otameshi2
+# otameshi2
